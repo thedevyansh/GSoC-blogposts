@@ -1,0 +1,4 @@
+[submodule "blogposts/public"]
+	path = blogposts/public
+	url = https://github.com/thedevyansh/google-summer-of-code-2021.git
+	branch = main
