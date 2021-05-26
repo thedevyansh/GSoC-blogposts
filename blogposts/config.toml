@@ -1,4 +1,5 @@
 baseURL = "https://thedevyansh.github.io/google-summer-of-code-2021/"
+canonifyURLs = true
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hello-friend"
