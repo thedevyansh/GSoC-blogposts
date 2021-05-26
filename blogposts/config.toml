@@ -43,10 +43,11 @@ paginate = 5
     dateFormatSingle = "2006-01-02"
     dateFormatList = "2006-01-02"
     # leave empty to disable, enter display text to enable
-    # lastModDisplay = ""
+    lastModDisplay = "Modified: "
+    enableGitInfo = true
 
     [languages.en.params.logo]
-      logoText = "Wikimedia Foundation"
+      logoText = "Devyansh Chawla"
       logoHomeLink = ""
     # or
     #
