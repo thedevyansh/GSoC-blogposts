@@ -10,7 +10,7 @@ I'm a full-stack developer who loves to solve real-world problems through softwa
 
 # Contact
 
-- Email: &nbsp; schawla333333@gmail.com
-- GitHub: &nbsp; [github.com/thedevyansh](https://github.com/thedevyansh)
-- Linkedin: &nbsp; [linkedin.com/in/devyanshchawla/](https://www.linkedin.com/in/devyanshchawla/)
-- Telegram: &nbsp; [telegram.me/dev_monk](https://telegram.me/dev_monk)
+- Email: schawla333333@gmail.com
+- GitHub: [github.com/thedevyansh](https://github.com/thedevyansh)
+- Linkedin: [linkedin.com/in/devyanshchawla/](https://www.linkedin.com/in/devyanshchawla/)
+- Telegram: [telegram.me/dev_monk](https://telegram.me/dev_monk)
