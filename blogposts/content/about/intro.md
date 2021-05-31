@@ -7,7 +7,7 @@ My name is Devyansh Chawla. I’m an undergraduate at National Institute of Tech
 Technology in Information Technology.
 
 I'm a full-stack developer who loves to solve real-world problems through software engineering. I've gained proficiency in JavaScript and acquired some experience in Computer Vision which I intend to widen. I'm interested in contributing to the 
-technical areas of **MediaWiki**.
+technical areas of MediaWiki.
 
 # Contact
 
