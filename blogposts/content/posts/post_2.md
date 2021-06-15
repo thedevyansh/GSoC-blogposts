@@ -49,7 +49,7 @@ After creating the wiki pages, I went forward to create the guiders/steps which 
 6. Login or create an account
 7. What's this common.js?
 8. Your common.js!
-9. Sneak Peak!
+9. Sneak Peek!
 10. What's going on here?
 11. Edit common.js
 12. Let's load the user script
@@ -86,7 +86,7 @@ which results in
 ### Issues faced
 1. When I was importing certain templates from English Wikipedia such as Template:Center, Template:Clear, etc. I ran into an error which stated **'sanitized-css' content model was not registered.** This happened specifically due to a template - Clickable Button 2, which depends on various modules containing sanitized-css, and there was no extension available in my MediaWiki-Docker to handle this content model. So I installed TemplateStyles extensions to have the required content model registered.
 
-2. To parse the wikitext in guiders' description, **mw.guidedTour.parseDescription** works like a charm, but it has been deprecated for a while now. So I tried replacing  it with mw.guidedTour.WikitextDescription or mw.Title object, however, the images on the guiders aren't showing. I'm still to figure out the solution to this.
+2. To parse the wikitext in guiders' description, **mw.guidedTour.parseDescription** works like a charm, but it has been deprecated for a while now. So I tried replacing  it with **mw.guidedTour.WikitextDescription** or **mw.Title** object, however, the images on the guiders aren't showing. I'm still to figure out the solution to this.
 
 ### What's next?
 For the upcoming two weeks, I plan to complete the implementation of Mission 1, followed by its unit testing and writing its story on MediaWiki. Further, I'll try to implement Mission 2 completely. 
