@@ -36,7 +36,7 @@ Following shows few names of the templates that I've created:
 - MediaWiki:TUT/Background/1
 - MediaWiki:TUT/Status
 - MediaWiki:TUT/1/UserscriptQuestion
-- MediaWiki:TUT/1/End
+- MediaWiki:TUT/1/End and more...
 
 **Guiders and the GuidedTour Extension:**
 
