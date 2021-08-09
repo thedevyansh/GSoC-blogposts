@@ -6,8 +6,6 @@ author: "Devyansh"
 description: "The eight and ninth week of the Coding period involved implementing Mission 4 of The Userscript Tour."
 ---
 
-### Summary of the third report
-
 In the past two weeks,  I have worked on Mission 4 of The Userscript Tour i.e. Novelty of OOUI.
 
 Mission 4 makes users familiar with Object-Oriented User Interface, how to easily create user interfaces with OOUI, and  how to write userscripts using OOUI. This mission required comparatively less effort due to the following two reasons:
@@ -26,8 +24,7 @@ Mission 4 makes users familiar with Object-Oriented User Interface, how to easil
 
 - **guessRandomNumber.js:** One of the cool userscripts which makes use of custom widgets. It appends a tiny random game at the bottom of the wiki page. The OOUI widgets used are: *MessageWidget, LabelWidget, TextInputWidget, ButtonWidget and Simple Message Dialog Box.*
 
-
-### Sequence of steps in Mission 3
+### Sequence of steps in Mission 4
 1. Good to see you!
 2. Object-Oriented User Interface
 3. Features

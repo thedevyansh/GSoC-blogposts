@@ -6,8 +6,6 @@ author: "Devyansh"
 description: "The sixth and seventh week of the Coding period involved implementing Mission 3 of The Userscript Tour."
 ---
 
-### Summary of the third report
-
 In the past two weeks,  I have worked on Mission 3 of The Userscript Tour i.e. Strengths of the MediaWiki Action API, and made some amendments in the order of guiders and demo userscripts as per the suggestions from the mentors.
 
 Mission 3 introduces the users to the MediaWiki Action API, which is a web service that facilitates wiki operations such as editing a page, deleting a page, getting information about a page, authenticating the user and so much more. This mission gives users the base required to start using the API in userscripts.
