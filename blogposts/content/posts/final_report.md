@@ -90,10 +90,10 @@ GitHub repository link: https://github.com/thedevyansh/the-userscript-tour
 This repo will also serve as a guide to developers who wish to run The Userscript Tour on their local installation of MediaWiki.
 
 As per the suggestions of my mentors, I have created all the required templates, wiki pages, and userscripts on mediawiki.org. To run The Userscript Tour, an interface administrator only needs to create the following pages in the MediaWiki namespace: 
-- [User:Novusistic/Guidedtour-tour-tut1.js](https://mediawiki.org/wiki/User:Novusistic/Guidedtour-tour-tut1.js)
-- [User:Novusistic/Guidedtour-tour-tut2.js](https://mediawiki.org/wiki/User:Novusistic/Guidedtour-tour-tut2.js)
-- [User:Novusistic/Guidedtour-tour-tut3.js](https://mediawiki.org/wiki/User:Novusistic/Guidedtour-tour-tut3.js)
-- [User:Novusistic/Guidedtour-tour-tut4.js](https://mediawiki.org/wiki/User:Novusistic/Guidedtour-tour-tut4.js)
+- [Guidedtour-tour-tut1.js](https://mediawiki.org/wiki/User:Novusistic/Guidedtour-tour-tut1.js)
+- [Guidedtour-tour-tut2.js](https://mediawiki.org/wiki/User:Novusistic/Guidedtour-tour-tut2.js)
+- [Guidedtour-tour-tut3.js](https://mediawiki.org/wiki/User:Novusistic/Guidedtour-tour-tut3.js)
+- [Guidedtour-tour-tut4.js](https://mediawiki.org/wiki/User:Novusistic/Guidedtour-tour-tut4.js)
 
 Visit [The_Userscript_Tour](https://www.mediawiki.org/wiki/The_Userscript_Tour) and enjoy the tour :P
 
