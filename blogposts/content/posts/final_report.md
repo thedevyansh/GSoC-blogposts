@@ -120,7 +120,7 @@ Visit [The_Userscript_Tour](https://www.mediawiki.org/wiki/The_Userscript_Tour) 
 ## ✨ Final words
 The past three months as a student developer at Wikimedia Foundation have been nothing short of excitement. I have learned a lot of things along the way by being in an inclusive and diverse community. It's a  community that encourages every member to speak up and feels welcomed.
 
-I am thankful to my GSoC mentors: [Krishna Chaitanya Velaga](https://meta.wikimedia.org/wiki/User:KCVelaga_(WMF)), [Jay Prakash](https://meta.wikimedia.org/wiki/User:Jayprakash12345), and [Enterprisey](https://en.wikipedia.org/wiki/User:Enterprisey), for their constant support throughout the Program. The project would not have been completed without their invaluable guidance, encouragement, and impeccable knowledge. I hope to keep in touch with these guys even after GSoC ❤️
+I am thankful to my GSoC mentors: [Krishna Chaitanya Velaga](https://meta.wikimedia.org/wiki/User:KCVelaga_(WMF)) (**volunteer account:** [KCValega](https://meta.wikimedia.org/wiki/User:KCVelaga)), [Jay Prakash](https://meta.wikimedia.org/wiki/User:Jayprakash12345), and [Enterprisey](https://en.wikipedia.org/wiki/User:Enterprisey), for their constant support throughout the Program. The project would not have been completed without their invaluable guidance, encouragement, and impeccable knowledge. I hope to keep in touch with these guys even after GSoC ❤️
 
 Also, special thanks to the organization's admins: [Gopa Vasanth](https://www.mediawiki.org/wiki/User:Gopavasanth) and [Srishti Sethi](https://www.mediawiki.org/wiki/User:SSethi_(WMF)) for maintaining a welcoming environment in the community and being such humble people.
 
